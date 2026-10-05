@@ -200,27 +200,18 @@ feature / core 多模块工程样板 · 角色与聊天系统 · 记忆与群聊
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://github.com/Sylvara-Lin"><img src="https://github.com/Sylvara-Lin.png?size=96" width="72" /><br/><sub><b>Sylvara-Lin</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Vespera-Su"><img src="https://github.com/Vespera-Su.png?size=96" width="72" /><br/><sub><b>祈愿小苏</b></sub></a></td>
-    <td align="center"><a href="https://github.com/2164312714-svg"><img src="https://github.com/2164312714-svg.png?size=96" width="72" /><br/><sub><b>Clove.</b></sub></a></td>
-    <td align="center"><a href="https://github.com/17rrr"><img src="https://github.com/17rrr.png?size=96" width="72" /><br/><sub><b>17rrr</b></sub></a></td>
-    <td align="center"><a href="https://github.com/3092054815-byte"><img src="https://github.com/3092054815-byte.png?size=96" width="72" /><br/><sub><b>着魔</b></sub></a></td>
-    <td align="center"><a href="https://github.com/doromy118"><img src="https://github.com/doromy118.png?size=96" width="72" /><br/><sub><b>doromy118</b></sub></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/HI-IR"><img src="https://github.com/HI-IR.png?size=96" width="72" /><br/><sub><b>HI-IR</b></sub></a></td>
-    <td align="center"><a href="https://github.com/jianghep"><img src="https://github.com/jianghep.png?size=96" width="72" /><br/><sub><b>jianghep</b></sub></a></td>
-    <td align="center"><a href="https://github.com/jiuicy"><img src="https://github.com/jiuicy.png?size=96" width="72" /><br/><sub><b>玖熙</b></sub></a></td>
-    <td align="center"><a href="https://github.com/liuwanwan1"><img src="https://github.com/liuwanwan1.png?size=96" width="72" /><br/><sub><b>liuwanwan</b></sub></a></td>
-    <td align="center"><a href="https://github.com/summerpalace2"><img src="https://github.com/summerpalace2.png?size=96" width="72" /><br/><sub><b>GGY</b></sub></a></td>
-    <td align="center"><a href="https://github.com/whitequeen306"><img src="https://github.com/whitequeen306.png?size=96" width="72" /><br/><sub><b>whitequeen306</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Sylvara-Lin"><img src="https://github.com/Sylvara-Lin.png?size=96" width="72" /><br/><sub><b>林若曦</b></sub><br/><sub>Sylvara-Lin · Owner</sub></a></td>
+    <td align="center"><a href="https://github.com/Vespera-Su"><img src="https://github.com/Vespera-Su.png?size=96" width="72" /><br/><sub><b>祈愿小苏</b></sub><br/><sub>Vespera-Su</sub></a></td>
+    <td align="center"><a href="https://github.com/2164312714-svg"><img src="https://github.com/2164312714-svg.png?size=96" width="72" /><br/><sub><b>Clove.</b></sub><br/><sub>2164312714-svg</sub></a></td>
+    <td align="center"><a href="https://github.com/17rrr"><img src="https://github.com/17rrr.png?size=96" width="72" /><br/><sub><b>17rrr</b></sub><br/><sub>17rrr</sub></a></td>
+    <td align="center"><a href="https://github.com/BB0813"><img src="https://github.com/BB0813.png?size=96" width="72" /><br/><sub><b>Binbim_ProMax</b></sub><br/><sub>BB0813</sub></a></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributors-13-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Members-5-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Stars-210%2B-yellow?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repositories-2-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-3-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" />
 </p>
 
 ---
