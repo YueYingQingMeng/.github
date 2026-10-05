@@ -176,7 +176,7 @@ feature / core 多模块工程样板 · 角色与聊天系统 · 记忆与群聊
 **🧠 AI & Agent**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,claude,gemini,ollama,huggingface,pytorch,mcp&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,ollama,huggingface,pytorch,mcp&theme=dark">
 <img src="https://img.shields.io/badge/MCP-Compatible-9EC5FF?style=flat-square&labelColor=0B1220" />
 <img src="https://img.shields.io/badge/LLM%20Provider-14%2B-9EC5FF?style=flat-square&labelColor=0B1220" />
 </p>
