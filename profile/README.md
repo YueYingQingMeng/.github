@@ -210,8 +210,9 @@ feature / core 多模块工程样板 · 角色与聊天系统 · 记忆与群聊
 
 <p align="center">
   <img src="https://img.shields.io/badge/Members-5-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stars-210%2B-yellow?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Repositories-3-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/YueYingQingMeng/LianYu-app?style=for-the-badge&label=LianYu%20Stars&color=9EC5FF&labelColor=0B1220&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/YueYingQingMeng/YuNian?style=for-the-badge&label=YuNian%20Stars&color=9EC5FF&labelColor=0B1220&logo=github&logoColor=white" />
 </p>
 
 ---
