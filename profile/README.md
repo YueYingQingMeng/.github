@@ -234,7 +234,7 @@ feature / core 多模块工程样板 · 角色与聊天系统 · 记忆与群聊
 <p align="center">
   <a href="https://github.com/YueYingQingMeng/YuNian/issues"><img src="https://img.shields.io/badge/%E6%8F%90%E4%B8%AA%20Issue-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" alt="Issue" /></a>
   <a href="https://github.com/YueYingQingMeng/YuNian/pulls"><img src="https://img.shields.io/badge/%E5%8F%91%E4%B8%AA%20PR-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" alt="PR" /></a>
-  <a href="mailto:hanzilinlin@foxmail.com"><img src="https://img.shields.io/badge/Email-hanzilinlin%40foxmail.com-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="mailto:YueYingQingMeng@163.com"><img src="https://img.shields.io/badge/Email-YueYingQingMeng%40163.com-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
