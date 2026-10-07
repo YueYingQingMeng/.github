@@ -17,6 +17,12 @@
 </p>
 
 <p align="center">
+  <a href="https://yueyingqingmeng.github.io/">
+    <img src="https://img.shields.io/badge/%E5%9B%A2%E9%98%9F%E5%8D%9A%E5%AE%A2-yueyingqingmeng.github.io-9EC5FF?style=for-the-badge&labelColor=0B1220&logo=astro&logoColor=white" alt="团队博客" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/%E4%BA%8C%E6%AC%A1%E5%85%83-AI%20%E9%99%AA%E4%BC%B4-9EC5FF?style=for-the-badge&labelColor=0B1220" alt="AI 陪伴" />
   <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose" />
@@ -25,6 +31,7 @@
 </p>
 
 <p align="center">
+  <a href="https://yueyingqingmeng.github.io/">团队博客</a> ·
   <a href="#-关于我们">关于我们</a> ·
   <a href="#-我们在做什么">我们在做什么</a> ·
   <a href="#-团队作品">团队作品</a> ·
